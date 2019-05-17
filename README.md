@@ -1,0 +1,1 @@
+[Click here to play it](https://skalnark.github.io/flappybirb/).
